@@ -1,0 +1,8 @@
+site_name: jOne - Guia
+pages:
+- jOne: index.md
+- Utilização: users.md
+- Instalação: install.md
+- Estrutura: structure.md
+- Sobre: about.md
+theme: bootstrap

@@ -1,0 +1,26 @@
+{
+	"version": "0.1.0",
+	"command": "bash",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": [
+        "-c"
+    ],
+    "tasks": [
+        {
+            "taskName": "serve",
+            "suppressTaskName": true,
+            "args": ["mkdocs serve"]
+        },
+        {
+            "taskName": "safari",
+            "suppressTaskName": true,
+            "args": ["open http://127.0.0.1:8000"]
+        },
+        {
+            "taskName": "build",
+            "suppressTaskName": true,
+            "args": ["mkdocs build"]
+        }
+    ]
+}
