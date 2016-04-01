@@ -5,4 +5,4 @@ pages:
 - Estrutura: structure.md
 - Instalação: install.md
 - Utilização: users.md
-theme: readthedocs
+theme: mkdocs
