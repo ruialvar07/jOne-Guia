@@ -1,8 +1,8 @@
 site_name: jOne - Guia
 pages:
 - jOne: index.md
-- Sobre: about.md
 - Estrutura: structure.md
 - Instalação: install.md
 - Utilização: users.md
+- Sobre: about.md
 theme: mkdocs
