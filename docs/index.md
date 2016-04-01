@@ -1,17 +1,13 @@
-# jOne
+<a href="http://portal-chsj.min-saude.pt/pages/417" target="_blank"><img style="width: 100px;" src="img/Icone.png" alt="jOne"></a>
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## O Guia de Utilização
 
-## Commands
+Este documento tem como objectivo disponibilizar informação útil para quem necessita de conhecer, e dar a conhecer, o **jOne**.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Após consulta e navegação pelo documento será possível:
 
-## Project layout
+* dominar, no contexto técnico, as ferramentas disponibilizadas no **jOne**;
+* responder a questões colocadas por outros utilizadores, e orientá-los de forma a sua utilização seja natural e fluida;
+* ser capaz de realizar a manutenção exigida pelo sistema.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
