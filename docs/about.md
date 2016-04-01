@@ -5,7 +5,7 @@ O jOne é uma aplicação clínica desenvolvida pela UDS (Unidade de Desenvolvim
 O desenvolvimento do jOne teve início em Outubro de 2009 e a primeira versão foi publicada em Maio de 2010. Desde então, o jOne tem evoluído regularmente de forma a tornar-se numa ferramenta indispensável para o corpo clínico do CHSJ. Assim, a equipa da UDS desenvolveu o jOne para o clínico ter a melhor experiência em qualquer aplicação da área.
 
 ##A Equipa
-A equipa da UDS - jOne é composta por um gestor, três programadores que acompanham o desenvolvimento desde o primeiro dia, e, é completada por mais dois programadores que integraram a equipa este ano.
+A equipa jOne é composta por um gestor, três programadores  - que acompanham o desenvolvimento desde o primeiro dia; e, é completada por mais dois programadores - que integraram a equipa este ano.
 <table>
     <tr>
         <td colspan="6" style="text-align:center;">
@@ -52,7 +52,47 @@ A equipa da UDS - jOne é composta por um gestor, três programadores que acompa
 </table>
 
 ##Módulos
-
+<table>
+    <tr><td colspan="5">**Urgência**</td><tr>
+    <tr>
+        <td style="text-align:center;"><img src="../img/modules/1.png"><br/>Médico<br/>*lista*</td>
+        <td style="text-align:center;"><img src="../img/modules/2.png"><br/>Enfermeiro<br/>*janela*</td>
+        <td style="text-align:center;"><img src="../img/modules/3.png" style="border: 2px solid green"><br/>Triagem<br/>*lista*</td>
+        <td style="text-align:center;"><img src="../img/modules/4.png"><br/>Informativo<br/>*janela*</td>
+    </tr>
+    <tr><td colspan="5">**Internamento**</td><tr>
+    <tr>
+        <td style="text-align:center;"><img src="../img/modules/6.png"><br/>Médico<br/>*lista*</td>
+        <td style="text-align:center;"><img src="../img/modules/7.png"><br/>Enfermeiro<br/>*janela*</td>
+        <td colspan="3"></td>
+    </tr>
+    <tr><td colspan="5">**Consulta**</td><tr>
+    <tr>
+        <td style="text-align:center;"><img src="../img/modules/8.png"><br/>Colheitas<br/>*janela*</td>
+        <td style="text-align:center;"><img src="../img/modules/9.png"><br/>Médico<br/>*lista*</td>
+        <td colspan="3"></td>
+    </tr>
+    <tr><td colspan="5">**Bloco** e **Hospital de dia**</td><tr>
+    <tr>
+        <td style="text-align:center;"><img src="../img/modules/10.png"><br/>Médico<br/>*lista*</td>
+        <td style="text-align:center;"><img src="../img/modules/11.png"><br/>Médico<br/>*lista*</td>
+        <td colspan="3"></td>
+    </tr>
+    <tr><td colspan="5">**Outros**</td><tr>
+    <tr>
+        <td style="text-align:center;"><img src="../img/modules/12.png"><br/>Serviço Social<br/>*janela*</td>
+        <td style="text-align:center;"><img src="../img/modules/13.png"><br/>Acesso à Informação<br/>*janela*</td>
+        <td style="text-align:center;"><img src="../img/modules/14.png" style="border: 2px solid green"><br/>Preferências<br/>*janela*</td>
+        <td style="text-align:center;"><img src="../img/modules/15.png" style="border: 2px solid green"><br/>Relatórios<br/>*janela*</td>
+        <td></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src="../img/cards/card.png"></td>
+        <tr><td colspan="4"></td><tr>
+    </tr>
+</table>
 
 * estatisticas
-* módulos transportados para lisboa
+* futuro HTML5
