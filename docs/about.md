@@ -87,12 +87,35 @@ A equipa jOne é composta por um gestor, três programadores  - que acompanham o
         <td></td>
     </tr>
 </table>
+##Cartões
 <table>
     <tr>
         <td><img src="../img/cards/card.png"></td>
-        <tr><td colspan="4"></td><tr>
     </tr>
 </table>
 
-* estatisticas
-* futuro HTML5
+##Estatísticas
+
+<table>
+    <tr>
+        <td><img src="../img/statistics/1.png"></td>
+    </tr>
+    <tr>
+        <td><img src="../img/statistics/2.png"></td>
+    </tr>
+    <tr>
+        <td><img src="../img/statistics/3.png"></td>
+    </tr>
+    <tr>
+        <td><img src="../img/statistics/4.png"></td>
+    </tr>
+    <tr> 
+        <td><img src="../img/statistics/5.png"></td>
+    </tr>
+</table>
+##HTML5
+<table>
+    <tr>
+        <td><img src="../img/html5.png"></td>
+    </tr>
+</table>
