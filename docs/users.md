@@ -140,10 +140,16 @@
         <td><img src="../img/users/triage/4.png"></td>
     </tr>
 </table>
-###Lista de trabalho
+
 <table>
     <tr>
         <td><img src="../img/users/triage/5.png"></td>
+    </tr>
+</table>
+###Lista de trabalho
+<table>
+    <tr>
+        <td><img src="../img/users/triage/6.png"></td>
     </tr>
 </table>
 ###Áreas do cartão
@@ -202,5 +208,25 @@
 </table>
 ##Gestor
 ###Reports
+<table>
+    <tr>
+        <td><img src="../img/users/manager/1.png"></td>
+    </tr>
+</table>
 ###Preferências de triagem
+<table>
+    <tr>
+        <td><img src="../img/users/manager/2.png"></td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src="../img/users/manager/3.png"></td>
+    </tr>
+</table>
 ###Cartão processo
+<table>
+    <tr>
+        <td><img src="../img/users/triage/5.png"></td>
+    </tr>
+</table>
