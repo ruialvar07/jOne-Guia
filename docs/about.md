@@ -1,6 +1,6 @@
 #Sobre o jOne
 
-O jOne é uma aplicação clínica desenvolvida pela UDS (Unidade de Desenvolvimento de Software) no Hospital de São João. A equipa do jOne é constituída por apenas três programadores  (havendo um reforço de dois elementos muito recentemente) e um gestor, Dr. Afonso Pedrosa.
+O **jOne** é uma aplicação clínica desenvolvida pela **UDS** (Unidade de Desenvolvimento de Software) no **CHSJ** (Centro Hospitalar de São João). A equipa do jOne é constituída por apenas três programadores  (havendo um reforço de dois elementos muito recentemente) e um gestor, Dr. Afonso Pedrosa.
 
 O desenvolvimento do jOne teve início em Outubro de 2009 e a primeira versão foi publicada em Maio de 2010. Desde então, o jOne tem evoluído regularmente de forma a tornar-se numa ferramenta indispensável para o corpo clínico do CHSJ. Assim, a equipa da UDS desenvolveu o jOne para o clínico ter a melhor experiência em qualquer aplicação da área.
 
@@ -50,7 +50,6 @@ A equipa jOne é composta por um gestor, três programadores  - que acompanham o
         </td>
     </tr>
 </table>
-
 ##Módulos
 <table>
     <tr><td colspan="5">**Urgência**</td><tr>
@@ -109,7 +108,7 @@ A equipa jOne é composta por um gestor, três programadores  - que acompanham o
     <tr>
         <td><img src="../img/statistics/4.png"></td>
     </tr>
-    <tr> 
+    <tr>
         <td><img src="../img/statistics/5.png"></td>
     </tr>
 </table>
