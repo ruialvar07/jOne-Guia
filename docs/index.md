@@ -12,7 +12,7 @@ Após consulta e navegação pelo documento será possível:
 
 Caso haja problemas na utilização da aplicação, será possível:
 
-1. enviar email para [uds@chsj.min-saude.pt](mailto:uds@chsj.min-saude.pt) obrigatoriamente em qualquer chamada com a exposição do problema ou sugestão.
-+ nos dia úteis (das 9h às 18h) ligar para o número 963887146. Caso não atenda ligar para o número do responsável 964884656
+1. enviar email para [uds@chsj.min-saude.pt](mailto:uds@chsj.min-saude.pt) **obrigatoriamente** antes de qualquer chamada com a exposição do problema ou sugestão.
++ nos dia úteis (das 9h às 18h) ligar para o número 963887146. Caso não atenda ligar para o número do responsável 964884656.
 
 
